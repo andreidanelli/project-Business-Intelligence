@@ -1,0 +1,832 @@
+{
+    "empresas_semiurbano": [
+        {
+            "cnpj": "12.647.487/0001-88",
+            "razao_social": "AMAZONIA INTER TURISMO LTDA",
+            "validade_habilitacao": "04/01/2038",
+            "situacao_empresa": "Empresa Habilitada"
+        },
+        {
+            "cnpj": "45.605.755/0001-58",
+            "razao_social": "AUTO VIACAO BRAGANCA LTDA",
+            "validade_habilitacao": "31/12/2035",
+            "situacao_empresa": "Empresa Habilitada"
+        },
+        {
+            "cnpj": "19.339.415/0001-12",
+            "razao_social": "AUTO VIACAO CAMBUI LTDA",
+            "validade_habilitacao": "31/12/2035",
+            "situacao_empresa": "Empresa Habilitada"
+        },
+        {
+            "cnpj": "53.416.038/0001-06",
+            "razao_social": "AUTO VIAÇÃO OURINHOS ASSIS LTDA",
+            "validade_habilitacao": "30/11/2018",
+            "situacao_empresa": "Não-Habilitada"
+        },
+        {
+            "cnpj": "11.377.706/0001-93",
+            "razao_social": "C & S PEIXOTO LTDA - EPP",
+            "validade_habilitacao": "31/12/2022",
+            "situacao_empresa": "Não-Habilitada"
+        },
+        {
+            "cnpj": "81.187.718/0001-30",
+            "razao_social": "CELESTE TRANSPORTES LTDA",
+            "validade_habilitacao": "31/12/2022",
+            "situacao_empresa": "Não-Habilitada"
+        },
+        {
+            "cnpj": "13.838.047/0001-70",
+            "razao_social": "CENTRAL EXPRESSO TRANSPORTES LTDA",
+            "validade_habilitacao": "04/01/2038",
+            "situacao_empresa": "Empresa Habilitada"
+        },
+        {
+            "cnpj": "03.339.033/0001-59",
+            "razao_social": "CIRCULAR NOSSA SENHORA APARECIDA LTDA",
+            "validade_habilitacao": "31/12/2035",
+            "situacao_empresa": "Empresa Habilitada"
+        },
+        {
+            "cnpj": "08.836.842/0001-90",
+            "razao_social": "COUTINHO & FERREIRA SERVICOS E TRANSPORTE LIMITADA",
+            "validade_habilitacao": "04/01/2038",
+            "situacao_empresa": "Empresa Habilitada"
+        },
+        {
+            "cnpj": "75.914.523/0001-42",
+            "razao_social": "E. G. TRANSPORTES COLETIVOS EIRELI",
+            "validade_habilitacao": "31/12/2022",
+            "situacao_empresa": "Não-Habilitada"
+        },
+        {
+            "cnpj": "28.823.921/0002-54",
+            "razao_social": "EASYBUS TRANSPORTES E LOGISTICA LTDA",
+            "validade_habilitacao": "19/05/2026",
+            "situacao_empresa": "Empresa Habilitada"
+        },
+        {
+            "cnpj": "81.159.857/0001-50",
+            "razao_social": "EMPRESA PRINCESA DO NORTE S.A.",
+            "validade_habilitacao": "31/12/2035",
+            "situacao_empresa": "Empresa Habilitada"
+        },
+        {
+            "cnpj": "43.004.159/0001-97",
+            "razao_social": "EXPRESSO ADAMANTINA LTDA",
+            "validade_habilitacao": "31/12/2040",
+            "situacao_empresa": "Empresa Habilitada"
+        },
+        {
+            "cnpj": "76.544.501/0001-09",
+            "razao_social": "EXPRESSO SAO BENTO LTDA",
+            "validade_habilitacao": "31/12/2035",
+            "situacao_empresa": "Empresa Habilitada"
+        },
+        {
+            "cnpj": "02.227.767/0001-83",
+            "razao_social": "EXPRESSO SAO JOSE DO TOCANTINS LTDA",
+            "validade_habilitacao": "31/12/2035",
+            "situacao_empresa": "Empresa Habilitada"
+        },
+        {
+            "cnpj": "04.426.116/0001-48",
+            "razao_social": "G20 TRANSPORTES LTDA  - ME",
+            "validade_habilitacao": "04/02/2019",
+            "situacao_empresa": "Não-Habilitada"
+        },
+        {
+            "cnpj": "04.257.238/0001-58",
+            "razao_social": "JOAFRA TRANSPORTES LTDA",
+            "validade_habilitacao": "31/12/2035",
+            "situacao_empresa": "Empresa Habilitada"
+        },
+        {
+            "cnpj": "03.233.439/0001-52",
+            "razao_social": "KANDANGO TRANSPORTES E TURISMO LTDA",
+            "validade_habilitacao": "04/01/2038",
+            "situacao_empresa": "Empresa Habilitada"
+        },
+        {
+            "cnpj": "06.217.786/0001-80",
+            "razao_social": "MAIS X TURISMO E EMPREENDIMENTOS EIRELI - EPP",
+            "validade_habilitacao": "30/11/2018",
+            "situacao_empresa": "Não-Habilitada"
+        },
+        {
+            "cnpj": "09.452.016/0001-00",
+            "razao_social": "MAXIMUS TRANSPORTE ESCOLAR E TURISMO LTDA - ME",
+            "validade_habilitacao": "30/11/2018",
+            "situacao_empresa": "Não-Habilitada"
+        },
+        {
+            "cnpj": "45.992.724/0001-05",
+            "razao_social": "RAPIDO LUXO CAMPINAS LTDA",
+            "validade_habilitacao": "31/12/2035",
+            "situacao_empresa": "Empresa Habilitada"
+        },
+        {
+            "cnpj": "03.103.551/0001-79",
+            "razao_social": "ROTA DO SOL TRANSPORTES E TURISMO LTDA",
+            "validade_habilitacao": "04/01/2038",
+            "situacao_empresa": "Empresa Habilitada"
+        },
+        {
+            "cnpj": "06.048.466/0005-77",
+            "razao_social": "TAGUATUR TAGUATINGA TRANSPORTES E TURISMO LTDA",
+            "validade_habilitacao": "22/07/2030",
+            "situacao_empresa": "Empresa Habilitada"
+        },
+        {
+            "cnpj": "06.048.466/0007-39",
+            "razao_social": "TAGUATUR TAGUATINGA TRANSPORTES E TURISMO LTDA",
+            "validade_habilitacao": "22/07/2030",
+            "situacao_empresa": "Empresa Habilitada"
+        },
+        {
+            "cnpj": "16.609.919/0001-17",
+            "razao_social": "TRANSPORTES ALEM PARAIBA LTDA",
+            "validade_habilitacao": "31/12/2035",
+            "situacao_empresa": "Empresa Habilitada"
+        },
+        {
+            "cnpj": "88.104.856/0001-58",
+            "razao_social": "TRANSPORTES NYSTROM LTDA",
+            "validade_habilitacao": "31/12/2022",
+            "situacao_empresa": "Não-Habilitada"
+        },
+        {
+            "cnpj": "37.098.480/0001-85",
+            "razao_social": "UTB UNIAO TRANSPORTE BRASILIA LTDA",
+            "validade_habilitacao": "04/01/2038",
+            "situacao_empresa": "Empresa Habilitada"
+        },
+        {
+            "cnpj": "01.036.755/0001-09",
+            "razao_social": "VIACAO ANAPOLINA LTDA",
+            "validade_habilitacao": "30/11/2018",
+            "situacao_empresa": "Não-Habilitada"
+        },
+        {
+            "cnpj": "77.758.308/0001-25",
+            "razao_social": "VIACAO CIDADE VERDE LTDA",
+            "validade_habilitacao": "31/12/2022",
+            "situacao_empresa": "Não-Habilitada"
+        },
+        {
+            "cnpj": "00.128.801/0001-37",
+            "razao_social": "VIACAO PARANAIBA LIMITADA - MASSA FALIDA",
+            "validade_habilitacao": "31/12/2035",
+            "situacao_empresa": "Empresa Habilitada"
+        },
+        {
+            "cnpj": "32.404.063/0001-08",
+            "razao_social": "VIACAO PROGRESSO E TURISMO S/A",
+            "validade_habilitacao": "31/12/2035",
+            "situacao_empresa": "Empresa Habilitada"
+        },
+        {
+            "cnpj": "80.858.053/0001-87",
+            "razao_social": "VIACAO SANTA CLARA LTDA",
+            "validade_habilitacao": "31/12/2022",
+            "situacao_empresa": "Não-Habilitada"
+        },
+        {
+            "cnpj": "01.611.500/0001-22",
+            "razao_social": "VIACAO TRANSPORTE COLETIVO DO ENTORNO LTDA",
+            "validade_habilitacao": "04/01/2038",
+            "situacao_empresa": "Empresa Habilitada"
+        },
+        {
+            "cnpj": "12.647.487/0001-88",
+            "razao_social": "AMAZONIA INTER TURISMO LTDA",
+            "validade_habilitacao": "04/01/2038",
+            "situacao_empresa": "Empresa Habilitada"
+        },
+        {
+            "cnpj": "45.605.755/0001-58",
+            "razao_social": "AUTO VIACAO BRAGANCA LTDA",
+            "validade_habilitacao": "31/12/2035",
+            "situacao_empresa": "Empresa Habilitada"
+        },
+        {
+            "cnpj": "19.339.415/0001-12",
+            "razao_social": "AUTO VIACAO CAMBUI LTDA",
+            "validade_habilitacao": "31/12/2035",
+            "situacao_empresa": "Empresa Habilitada"
+        },
+        {
+            "cnpj": "53.416.038/0001-06",
+            "razao_social": "AUTO VIAÇÃO OURINHOS ASSIS LTDA",
+            "validade_habilitacao": "30/11/2018",
+            "situacao_empresa": "Não-Habilitada"
+        },
+        {
+            "cnpj": "11.377.706/0001-93",
+            "razao_social": "C & S PEIXOTO LTDA - EPP",
+            "validade_habilitacao": "31/12/2022",
+            "situacao_empresa": "Não-Habilitada"
+        },
+        {
+            "cnpj": "81.187.718/0001-30",
+            "razao_social": "CELESTE TRANSPORTES LTDA",
+            "validade_habilitacao": "31/12/2022",
+            "situacao_empresa": "Não-Habilitada"
+        },
+        {
+            "cnpj": "13.838.047/0001-70",
+            "razao_social": "CENTRAL EXPRESSO TRANSPORTES LTDA",
+            "validade_habilitacao": "04/01/2038",
+            "situacao_empresa": "Empresa Habilitada"
+        },
+        {
+            "cnpj": "03.339.033/0001-59",
+            "razao_social": "CIRCULAR NOSSA SENHORA APARECIDA LTDA",
+            "validade_habilitacao": "31/12/2035",
+            "situacao_empresa": "Empresa Habilitada"
+        },
+        {
+            "cnpj": "08.836.842/0001-90",
+            "razao_social": "COUTINHO & FERREIRA SERVICOS E TRANSPORTE LIMITADA",
+            "validade_habilitacao": "04/01/2038",
+            "situacao_empresa": "Empresa Habilitada"
+        },
+        {
+            "cnpj": "75.914.523/0001-42",
+            "razao_social": "E. G. TRANSPORTES COLETIVOS EIRELI",
+            "validade_habilitacao": "31/12/2022",
+            "situacao_empresa": "Não-Habilitada"
+        },
+        {
+            "cnpj": "28.823.921/0002-54",
+            "razao_social": "EASYBUS TRANSPORTES E LOGISTICA LTDA",
+            "validade_habilitacao": "19/05/2026",
+            "situacao_empresa": "Empresa Habilitada"
+        },
+        {
+            "cnpj": "81.159.857/0001-50",
+            "razao_social": "EMPRESA PRINCESA DO NORTE S.A.",
+            "validade_habilitacao": "31/12/2035",
+            "situacao_empresa": "Empresa Habilitada"
+        },
+        {
+            "cnpj": "43.004.159/0001-97",
+            "razao_social": "EXPRESSO ADAMANTINA LTDA",
+            "validade_habilitacao": "31/12/2040",
+            "situacao_empresa": "Empresa Habilitada"
+        },
+        {
+            "cnpj": "76.544.501/0001-09",
+            "razao_social": "EXPRESSO SAO BENTO LTDA",
+            "validade_habilitacao": "31/12/2035",
+            "situacao_empresa": "Empresa Habilitada"
+        },
+        {
+            "cnpj": "02.227.767/0001-83",
+            "razao_social": "EXPRESSO SAO JOSE DO TOCANTINS LTDA",
+            "validade_habilitacao": "31/12/2035",
+            "situacao_empresa": "Empresa Habilitada"
+        },
+        {
+            "cnpj": "04.426.116/0001-48",
+            "razao_social": "G20 TRANSPORTES LTDA  - ME",
+            "validade_habilitacao": "04/02/2019",
+            "situacao_empresa": "Não-Habilitada"
+        },
+        {
+            "cnpj": "39.805.770/0001-47",
+            "razao_social": "GLOBAL TRANSPORTES RODOVIARIO LTDA",
+            "validade_habilitacao": "23/08/2050",
+            "situacao_empresa": "Empresa Habilitada"
+        },
+        {
+            "cnpj": "04.257.238/0001-58",
+            "razao_social": "JOAFRA TRANSPORTES LTDA",
+            "validade_habilitacao": "31/12/2035",
+            "situacao_empresa": "Empresa Habilitada"
+        },
+        {
+            "cnpj": "03.233.439/0001-52",
+            "razao_social": "KANDANGO TRANSPORTES E TURISMO LTDA",
+            "validade_habilitacao": "04/01/2038",
+            "situacao_empresa": "Empresa Habilitada"
+        },
+        {
+            "cnpj": "06.217.786/0001-80",
+            "razao_social": "MAIS X TURISMO E EMPREENDIMENTOS EIRELI - EPP",
+            "validade_habilitacao": "30/11/2018",
+            "situacao_empresa": "Não-Habilitada"
+        },
+        {
+            "cnpj": "09.452.016/0001-00",
+            "razao_social": "MAXIMUS TRANSPORTE ESCOLAR E TURISMO LTDA - ME",
+            "validade_habilitacao": "30/11/2018",
+            "situacao_empresa": "Não-Habilitada"
+        },
+        {
+            "cnpj": "45.992.724/0001-05",
+            "razao_social": "RAPIDO LUXO CAMPINAS LTDA",
+            "validade_habilitacao": "31/12/2035",
+            "situacao_empresa": "Empresa Habilitada"
+        },
+        {
+            "cnpj": "41.562.791/0001-20",
+            "razao_social": "RM TRANSPORTE LTDA",
+            "validade_habilitacao": "23/08/2050",
+            "situacao_empresa": "Empresa Habilitada"
+        },
+        {
+            "cnpj": "03.103.551/0001-79",
+            "razao_social": "ROTA DO SOL TRANSPORTES E TURISMO LTDA",
+            "validade_habilitacao": "04/01/2038",
+            "situacao_empresa": "Empresa Habilitada"
+        },
+        {
+            "cnpj": "06.048.466/0005-77",
+            "razao_social": "TAGUATUR TAGUATINGA TRANSPORTES E TURISMO LTDA",
+            "validade_habilitacao": "22/07/2030",
+            "situacao_empresa": "Empresa Habilitada"
+        },
+        {
+            "cnpj": "06.048.466/0007-39",
+            "razao_social": "TAGUATUR TAGUATINGA TRANSPORTES E TURISMO LTDA",
+            "validade_habilitacao": "22/07/2030",
+            "situacao_empresa": "Empresa Habilitada"
+        },
+        {
+            "cnpj": "16.609.919/0001-17",
+            "razao_social": "TRANSPORTES ALEM PARAIBA LTDA",
+            "validade_habilitacao": "31/12/2035",
+            "situacao_empresa": "Empresa Habilitada"
+        },
+        {
+            "cnpj": "88.104.856/0001-58",
+            "razao_social": "TRANSPORTES NYSTROM LTDA",
+            "validade_habilitacao": "31/12/2022",
+            "situacao_empresa": "Não-Habilitada"
+        },
+        {
+            "cnpj": "37.098.480/0001-85",
+            "razao_social": "UTB UNIAO TRANSPORTE BRASILIA LTDA",
+            "validade_habilitacao": "04/01/2038",
+            "situacao_empresa": "Empresa Habilitada"
+        },
+        {
+            "cnpj": "01.036.755/0001-09",
+            "razao_social": "VIACAO ANAPOLINA LTDA",
+            "validade_habilitacao": "30/11/2018",
+            "situacao_empresa": "Não-Habilitada"
+        },
+        {
+            "cnpj": "77.758.308/0001-25",
+            "razao_social": "VIACAO CIDADE VERDE LTDA",
+            "validade_habilitacao": "31/12/2022",
+            "situacao_empresa": "Não-Habilitada"
+        },
+        {
+            "cnpj": "00.128.801/0001-37",
+            "razao_social": "VIACAO PARANAIBA LIMITADA - MASSA FALIDA",
+            "validade_habilitacao": "31/12/2035",
+            "situacao_empresa": "Empresa Habilitada"
+        },
+        {
+            "cnpj": "32.404.063/0001-08",
+            "razao_social": "VIACAO PROGRESSO E TURISMO S/A",
+            "validade_habilitacao": "31/12/2035",
+            "situacao_empresa": "Empresa Habilitada"
+        },
+        {
+            "cnpj": "80.858.053/0001-87",
+            "razao_social": "VIACAO SANTA CLARA LTDA",
+            "validade_habilitacao": "31/12/2022",
+            "situacao_empresa": "Não-Habilitada"
+        },
+        {
+            "cnpj": "01.611.500/0001-22",
+            "razao_social": "VIACAO TRANSPORTE COLETIVO DO ENTORNO LTDA",
+            "validade_habilitacao": "04/01/2038",
+            "situacao_empresa": "Empresa Habilitada"
+        },
+        {
+            "cnpj": "12.647.487/0001-88",
+            "razao_social": "AMAZONIA INTER TURISMO LTDA",
+            "validade_habilitacao": "04/01/2038",
+            "situacao_empresa": "Empresa Habilitada"
+        },
+        {
+            "cnpj": "45.605.755/0001-58",
+            "razao_social": "AUTO VIACAO BRAGANCA LTDA",
+            "validade_habilitacao": "31/12/2035",
+            "situacao_empresa": "Empresa Habilitada"
+        },
+        {
+            "cnpj": "19.339.415/0001-12",
+            "razao_social": "AUTO VIACAO CAMBUI LTDA",
+            "validade_habilitacao": "31/12/2035",
+            "situacao_empresa": "Empresa Habilitada"
+        },
+        {
+            "cnpj": "53.416.038/0001-06",
+            "razao_social": "AUTO VIAÇÃO OURINHOS ASSIS LTDA",
+            "validade_habilitacao": "30/11/2018",
+            "situacao_empresa": "Não-Habilitada"
+        },
+        {
+            "cnpj": "11.377.706/0001-93",
+            "razao_social": "C & S PEIXOTO LTDA - EPP",
+            "validade_habilitacao": "31/12/2022",
+            "situacao_empresa": "Não-Habilitada"
+        },
+        {
+            "cnpj": "81.187.718/0001-30",
+            "razao_social": "CELESTE TRANSPORTES LTDA",
+            "validade_habilitacao": "31/12/2022",
+            "situacao_empresa": "Não-Habilitada"
+        },
+        {
+            "cnpj": "13.838.047/0001-70",
+            "razao_social": "CENTRAL EXPRESSO TRANSPORTES LTDA",
+            "validade_habilitacao": "04/01/2038",
+            "situacao_empresa": "Empresa Habilitada"
+        },
+        {
+            "cnpj": "03.339.033/0001-59",
+            "razao_social": "CIRCULAR NOSSA SENHORA APARECIDA LTDA",
+            "validade_habilitacao": "31/12/2035",
+            "situacao_empresa": "Empresa Habilitada"
+        },
+        {
+            "cnpj": "08.836.842/0001-90",
+            "razao_social": "COUTINHO & FERREIRA SERVICOS E TRANSPORTE LIMITADA",
+            "validade_habilitacao": "04/01/2038",
+            "situacao_empresa": "Empresa Habilitada"
+        },
+        {
+            "cnpj": "75.914.523/0001-42",
+            "razao_social": "E. G. TRANSPORTES COLETIVOS EIRELI",
+            "validade_habilitacao": "31/12/2022",
+            "situacao_empresa": "Não-Habilitada"
+        },
+        {
+            "cnpj": "28.823.921/0002-54",
+            "razao_social": "EASYBUS TRANSPORTES E LOGISTICA LTDA",
+            "validade_habilitacao": "19/05/2026",
+            "situacao_empresa": "Empresa Habilitada"
+        },
+        {
+            "cnpj": "81.159.857/0001-50",
+            "razao_social": "EMPRESA PRINCESA DO NORTE S.A.",
+            "validade_habilitacao": "31/12/2035",
+            "situacao_empresa": "Empresa Habilitada"
+        },
+        {
+            "cnpj": "43.004.159/0001-97",
+            "razao_social": "EXPRESSO ADAMANTINA LTDA",
+            "validade_habilitacao": "31/12/2040",
+            "situacao_empresa": "Empresa Habilitada"
+        },
+        {
+            "cnpj": "76.544.501/0001-09",
+            "razao_social": "EXPRESSO SAO BENTO LTDA",
+            "validade_habilitacao": "31/12/2035",
+            "situacao_empresa": "Empresa Habilitada"
+        },
+        {
+            "cnpj": "02.227.767/0001-83",
+            "razao_social": "EXPRESSO SAO JOSE DO TOCANTINS LTDA",
+            "validade_habilitacao": "31/12/2035",
+            "situacao_empresa": "Empresa Habilitada"
+        },
+        {
+            "cnpj": "04.426.116/0001-48",
+            "razao_social": "G20 TRANSPORTES LTDA  - ME",
+            "validade_habilitacao": "04/02/2019",
+            "situacao_empresa": "Não-Habilitada"
+        },
+        {
+            "cnpj": "39.805.770/0001-47",
+            "razao_social": "GLOBAL TRANSPORTES RODOVIARIO LTDA",
+            "validade_habilitacao": "23/08/2050",
+            "situacao_empresa": "Empresa Habilitada"
+        },
+        {
+            "cnpj": "04.257.238/0001-58",
+            "razao_social": "JOAFRA TRANSPORTES LTDA",
+            "validade_habilitacao": "31/12/2035",
+            "situacao_empresa": "Empresa Habilitada"
+        },
+        {
+            "cnpj": "03.233.439/0001-52",
+            "razao_social": "KANDANGO TRANSPORTES E TURISMO LTDA",
+            "validade_habilitacao": "04/01/2038",
+            "situacao_empresa": "Empresa Habilitada"
+        },
+        {
+            "cnpj": "06.217.786/0001-80",
+            "razao_social": "MAIS X TURISMO E EMPREENDIMENTOS EIRELI - EPP",
+            "validade_habilitacao": "30/11/2018",
+            "situacao_empresa": "Não-Habilitada"
+        },
+        {
+            "cnpj": "09.452.016/0001-00",
+            "razao_social": "MAXIMUS TRANSPORTE ESCOLAR E TURISMO LTDA - ME",
+            "validade_habilitacao": "30/11/2018",
+            "situacao_empresa": "Não-Habilitada"
+        },
+        {
+            "cnpj": "45.992.724/0001-05",
+            "razao_social": "RAPIDO LUXO CAMPINAS LTDA",
+            "validade_habilitacao": "31/12/2035",
+            "situacao_empresa": "Empresa Habilitada"
+        },
+        {
+            "cnpj": "41.562.791/0001-20",
+            "razao_social": "RMDS TRANSPORTES LTDA",
+            "validade_habilitacao": "23/08/2050",
+            "situacao_empresa": "Empresa Habilitada"
+        },
+        {
+            "cnpj": "03.103.551/0001-79",
+            "razao_social": "ROTA DO SOL TRANSPORTES E TURISMO LTDA",
+            "validade_habilitacao": "04/01/2038",
+            "situacao_empresa": "Empresa Habilitada"
+        },
+        {
+            "cnpj": "06.048.466/0005-77",
+            "razao_social": "TAGUATUR TAGUATINGA TRANSPORTES E TURISMO LTDA",
+            "validade_habilitacao": "22/07/2030",
+            "situacao_empresa": "Empresa Habilitada"
+        },
+        {
+            "cnpj": "06.048.466/0007-39",
+            "razao_social": "TAGUATUR TAGUATINGA TRANSPORTES E TURISMO LTDA",
+            "validade_habilitacao": "22/07/2030",
+            "situacao_empresa": "Empresa Habilitada"
+        },
+        {
+            "cnpj": "16.609.919/0001-17",
+            "razao_social": "TRANSPORTES ALEM PARAIBA LTDA",
+            "validade_habilitacao": "31/12/2035",
+            "situacao_empresa": "Empresa Habilitada"
+        },
+        {
+            "cnpj": "88.104.856/0001-58",
+            "razao_social": "TRANSPORTES NYSTROM LTDA",
+            "validade_habilitacao": "31/12/2022",
+            "situacao_empresa": "Não-Habilitada"
+        },
+        {
+            "cnpj": "37.098.480/0001-85",
+            "razao_social": "UTB UNIAO TRANSPORTE BRASILIA LTDA",
+            "validade_habilitacao": "04/01/2038",
+            "situacao_empresa": "Empresa Habilitada"
+        },
+        {
+            "cnpj": "01.036.755/0001-09",
+            "razao_social": "VIACAO ANAPOLINA LTDA",
+            "validade_habilitacao": "30/11/2018",
+            "situacao_empresa": "Não-Habilitada"
+        },
+        {
+            "cnpj": "77.758.308/0001-25",
+            "razao_social": "VIACAO CIDADE VERDE LTDA",
+            "validade_habilitacao": "31/12/2022",
+            "situacao_empresa": "Não-Habilitada"
+        },
+        {
+            "cnpj": "00.128.801/0001-37",
+            "razao_social": "VIACAO PARANAIBA LIMITADA - MASSA FALIDA",
+            "validade_habilitacao": "31/12/2035",
+            "situacao_empresa": "Empresa Habilitada"
+        },
+        {
+            "cnpj": "32.404.063/0001-08",
+            "razao_social": "VIACAO PROGRESSO E TURISMO S/A",
+            "validade_habilitacao": "31/12/2035",
+            "situacao_empresa": "Empresa Habilitada"
+        },
+        {
+            "cnpj": "80.858.053/0001-87",
+            "razao_social": "VIACAO SANTA CLARA LTDA",
+            "validade_habilitacao": "31/12/2022",
+            "situacao_empresa": "Não-Habilitada"
+        },
+        {
+            "cnpj": "01.611.500/0001-22",
+            "razao_social": "VIACAO TRANSPORTE COLETIVO DO ENTORNO LTDA",
+            "validade_habilitacao": "04/01/2038",
+            "situacao_empresa": "Empresa Habilitada"
+        },
+        {
+            "cnpj": "12.647.487/0001-88",
+            "razao_social": "AMAZONIA INTER TURISMO LTDA",
+            "validade_habilitacao": "04/01/2038",
+            "situacao_empresa": "Empresa Habilitada"
+        },
+        {
+            "cnpj": "45.605.755/0001-58",
+            "razao_social": "AUTO VIACAO BRAGANCA LTDA",
+            "validade_habilitacao": "31/12/2035",
+            "situacao_empresa": "Empresa Habilitada"
+        },
+        {
+            "cnpj": "19.339.415/0001-12",
+            "razao_social": "AUTO VIACAO CAMBUI LTDA",
+            "validade_habilitacao": "31/12/2035",
+            "situacao_empresa": "Empresa Habilitada"
+        },
+        {
+            "cnpj": "53.416.038/0001-06",
+            "razao_social": "AUTO VIAÇÃO OURINHOS ASSIS LTDA",
+            "validade_habilitacao": "30/11/2018",
+            "situacao_empresa": "Não-Habilitada"
+        },
+        {
+            "cnpj": "11.377.706/0001-93",
+            "razao_social": "C & S PEIXOTO LTDA - EPP",
+            "validade_habilitacao": "31/12/2022",
+            "situacao_empresa": "Não-Habilitada"
+        },
+        {
+            "cnpj": "81.187.718/0001-30",
+            "razao_social": "CELESTE TRANSPORTES LTDA",
+            "validade_habilitacao": "31/12/2022",
+            "situacao_empresa": "Não-Habilitada"
+        },
+        {
+            "cnpj": "13.838.047/0001-70",
+            "razao_social": "CENTRAL EXPRESSO TRANSPORTES LTDA",
+            "validade_habilitacao": "04/01/2038",
+            "situacao_empresa": "Empresa Habilitada"
+        },
+        {
+            "cnpj": "03.339.033/0001-59",
+            "razao_social": "CIRCULAR NOSSA SENHORA APARECIDA LTDA",
+            "validade_habilitacao": "31/12/2035",
+            "situacao_empresa": "Empresa Habilitada"
+        },
+        {
+            "cnpj": "08.836.842/0001-90",
+            "razao_social": "COUTINHO & FERREIRA SERVICOS E TRANSPORTE LIMITADA",
+            "validade_habilitacao": "04/01/2038",
+            "situacao_empresa": "Empresa Habilitada"
+        },
+        {
+            "cnpj": "75.914.523/0001-42",
+            "razao_social": "E. G. TRANSPORTES COLETIVOS EIRELI",
+            "validade_habilitacao": "31/12/2022",
+            "situacao_empresa": "Não-Habilitada"
+        },
+        {
+            "cnpj": "28.823.921/0002-54",
+            "razao_social": "EASYBUS TRANSPORTES E LOGISTICA LTDA",
+            "validade_habilitacao": "19/05/2026",
+            "situacao_empresa": "Empresa Habilitada"
+        },
+        {
+            "cnpj": "81.159.857/0001-50",
+            "razao_social": "EMPRESA PRINCESA DO NORTE S.A.",
+            "validade_habilitacao": "31/12/2035",
+            "situacao_empresa": "Empresa Habilitada"
+        },
+        {
+            "cnpj": "43.004.159/0001-97",
+            "razao_social": "EXPRESSO ADAMANTINA LTDA",
+            "validade_habilitacao": "31/12/2040",
+            "situacao_empresa": "Empresa Habilitada"
+        },
+        {
+            "cnpj": "76.544.501/0001-09",
+            "razao_social": "EXPRESSO SAO BENTO LTDA",
+            "validade_habilitacao": "31/12/2035",
+            "situacao_empresa": "Empresa Habilitada"
+        },
+        {
+            "cnpj": "02.227.767/0001-83",
+            "razao_social": "EXPRESSO SAO JOSE DO TOCANTINS LTDA",
+            "validade_habilitacao": "31/12/2035",
+            "situacao_empresa": "Empresa Habilitada"
+        },
+        {
+            "cnpj": "04.426.116/0001-48",
+            "razao_social": "G20 TRANSPORTES LTDA  - ME",
+            "validade_habilitacao": "04/02/2019",
+            "situacao_empresa": "Não-Habilitada"
+        },
+        {
+            "cnpj": "39.805.770/0001-47",
+            "razao_social": "GLOBAL TRANSPORTES RODOVIARIO LTDA",
+            "validade_habilitacao": "23/08/2050",
+            "situacao_empresa": "Empresa Habilitada"
+        },
+        {
+            "cnpj": "04.257.238/0001-58",
+            "razao_social": "JOAFRA TRANSPORTES LTDA",
+            "validade_habilitacao": "31/12/2035",
+            "situacao_empresa": "Empresa Habilitada"
+        },
+        {
+            "cnpj": "03.233.439/0001-52",
+            "razao_social": "KANDANGO TRANSPORTES E TURISMO LTDA",
+            "validade_habilitacao": "04/01/2038",
+            "situacao_empresa": "Empresa Habilitada"
+        },
+        {
+            "cnpj": "06.217.786/0001-80",
+            "razao_social": "MAIS X TURISMO E EMPREENDIMENTOS EIRELI - EPP",
+            "validade_habilitacao": "30/11/2018",
+            "situacao_empresa": "Não-Habilitada"
+        },
+        {
+            "cnpj": "09.452.016/0001-00",
+            "razao_social": "MAXIMUS TRANSPORTE ESCOLAR E TURISMO LTDA - ME",
+            "validade_habilitacao": "30/11/2018",
+            "situacao_empresa": "Não-Habilitada"
+        },
+        {
+            "cnpj": "45.992.724/0001-05",
+            "razao_social": "RAPIDO LUXO CAMPINAS LTDA",
+            "validade_habilitacao": "31/12/2035",
+            "situacao_empresa": "Empresa Habilitada"
+        },
+        {
+            "cnpj": "41.562.791/0001-20",
+            "razao_social": "RMDS TRANSPORTES LTDA",
+            "validade_habilitacao": "23/08/2050",
+            "situacao_empresa": "Empresa Habilitada"
+        },
+        {
+            "cnpj": "03.103.551/0001-79",
+            "razao_social": "ROTA DO SOL TRANSPORTES E TURISMO LTDA",
+            "validade_habilitacao": "04/01/2038",
+            "situacao_empresa": "Empresa Habilitada"
+        },
+        {
+            "cnpj": "06.048.466/0005-77",
+            "razao_social": "TAGUATUR TAGUATINGA TRANSPORTES E TURISMO LTDA",
+            "validade_habilitacao": "22/07/2030",
+            "situacao_empresa": "Empresa Habilitada"
+        },
+        {
+            "cnpj": "06.048.466/0007-39",
+            "razao_social": "TAGUATUR TAGUATINGA TRANSPORTES E TURISMO LTDA",
+            "validade_habilitacao": "22/07/2030",
+            "situacao_empresa": "Empresa Habilitada"
+        },
+        {
+            "cnpj": "16.609.919/0001-17",
+            "razao_social": "TRANSPORTES ALEM PARAIBA LTDA",
+            "validade_habilitacao": "31/12/2035",
+            "situacao_empresa": "Empresa Habilitada"
+        },
+        {
+            "cnpj": "88.104.856/0001-58",
+            "razao_social": "TRANSPORTES NYSTROM LTDA",
+            "validade_habilitacao": "31/12/2022",
+            "situacao_empresa": "Não-Habilitada"
+        },
+        {
+            "cnpj": "37.098.480/0001-85",
+            "razao_social": "UTB UNIAO TRANSPORTE BRASILIA LTDA",
+            "validade_habilitacao": "04/01/2038",
+            "situacao_empresa": "Empresa Habilitada"
+        },
+        {
+            "cnpj": "01.036.755/0001-09",
+            "razao_social": "VIACAO ANAPOLINA LTDA",
+            "validade_habilitacao": "30/11/2018",
+            "situacao_empresa": "Não-Habilitada"
+        },
+        {
+            "cnpj": "77.758.308/0001-25",
+            "razao_social": "VIACAO CIDADE VERDE LTDA",
+            "validade_habilitacao": "31/12/2022",
+            "situacao_empresa": "Não-Habilitada"
+        },
+        {
+            "cnpj": "00.128.801/0001-37",
+            "razao_social": "VIACAO PARANAIBA LIMITADA - MASSA FALIDA",
+            "validade_habilitacao": "31/12/2035",
+            "situacao_empresa": "Empresa Habilitada"
+        },
+        {
+            "cnpj": "32.404.063/0001-08",
+            "razao_social": "VIACAO PROGRESSO E TURISMO S/A",
+            "validade_habilitacao": "31/12/2035",
+            "situacao_empresa": "Empresa Habilitada"
+        },
+        {
+            "cnpj": "80.858.053/0001-87",
+            "razao_social": "VIACAO SANTA CLARA LTDA",
+            "validade_habilitacao": "31/12/2022",
+            "situacao_empresa": "Não-Habilitada"
+        },
+        {
+            "cnpj": "01.611.500/0001-22",
+            "razao_social": "VIACAO TRANSPORTE COLETIVO DO ENTORNO LTDA",
+            "validade_habilitacao": "04/01/2038",
+            "situacao_empresa": "Empresa Habilitada"
+        }
+    ]
+}
